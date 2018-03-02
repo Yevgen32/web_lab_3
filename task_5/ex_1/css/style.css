@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.container{
+	max-width: 575px;
+}
+table{
+	width: 100%;
+}
+tr th{
+	height: 45px;
+}
+table tr th{
+	border: 1px solid white;
+}
+.white{
+	color: white;
+	background-color: #a3cee9;
+}
+.left{
+	text-align: left
+}
+.text{
+  background-color: #d3e7f4;
+}
