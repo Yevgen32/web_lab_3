@@ -2,3 +2,69 @@
 	margin: 0;
 	padding: 0;
 }
+body {
+    background: #D3AFAB;
+}
+.container{
+	margin: 10px;
+}
+.main{
+    padding:15px;
+    color:#fff;
+    background-color: #df4f43;
+    border-color: black;
+    min-width: 170px;
+}
+table {
+    font-size: 14px;
+    font-weight: bold;
+    border-collapse: collapse;
+    border-spacing: 1px;
+}
+
+.top {
+    padding:15px;
+    color:#fff;
+    background:black;
+    border:10px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.clear{
+    background-color:#D3AFAB;
+    border:none;
+}
+.footer{
+    color: #9CD009;
+    font-size:32px;
+    text-align:center;
+    padding:10px 0px;
+
+}
+.text{
+    padding:12px;
+    text-align:center;
+    background-color:#EBEBEB;
+    color:#252A2D;
+    border-right: 1px solid #D0D0D0;
+    border-top: 1px solid #D0D0D0;
+    width: 200px;
+}
+.button1{
+    text-align:center;
+    background-color:#EBEBEB;
+    color:#252A2D;
+    border-right: 1px solid #D0D0D0;
+    border-top: 1px solid #D0D0D0;
+    padding-bottom: 13px;
+    padding-top: 13px;
+}
+
+.button2{
+  width:105px;
+  height:40px;
+  background-color: #df4f43;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+}
