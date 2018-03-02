@@ -2,3 +2,20 @@
 	margin: 0;
 	padding: 0;
 }
+.white{
+    color: white;
+    background: green;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #eff
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 8px;
+}
+th:nth-child(even){
+    background-color: #e4ffb7;
+}
