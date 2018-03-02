@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url("../image/body-bg.png");
+	background-repeat: repeat-x;
+}
+.container{
+	max-width: 1220px;
+	min-height: 173px;
+}
+.menu{
+	width: 100%;
+}
+figure{
+	text-align: center;
+	margin: 35px 0;
+}
+.menu img{
+	width:950px;
+	height:66px;
+}
+.nav {
+	text-align: center;
+	margin: 25px 0;
+}
+.nav li {
+	margin: 0 5px 10px 0;
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+}
+.nav a {
+	padding: 3px 12px;
+	text-decoration: none;
+	line-height: 100%;
+	background: #f3f6f7;
+	color: #000;
+	border-radius: 3px;
+}
+.nav a:hover {
+	color: #999;
+}
+.nav .current a {
+	background: #d1dee4;
+	border-radius: 3px;
+}
