@@ -2,3 +2,45 @@
 	margin: 0;
 	padding: 0;
 }
+.container{
+    margin: 10px;
+    max-width: 900px;
+}
+.white{
+    background-color: white;
+    color: black;
+}
+table {
+    font-size: 16px;
+    font-weight: bold;
+    border-collapse:separate;
+}
+.top th{
+    padding:15px;
+    color:#fff;
+    background-color: #81c43f;
+    border-radius: 5px;
+    border: 0;
+}
+td{
+    padding:12px;
+    text-align:center;
+    background-color:#DEF3CA;
+    color:black;
+}
+th{
+    padding:15px;
+    color:#fff;
+    background-color: #81c43f;
+    border-radius: 5px;
+}
+.green{
+	color: #81c43f;
+}
+
+.white_g{
+	background-color: white;
+	color: #81c43f;
+	font-size: 40px;
+}
+
